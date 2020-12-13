@@ -1,0 +1,8 @@
+My Library Management System 
+Returned By: Mehul
+Date: 2020-12-13    Time:12:16:00.493981
+
+S.N.		Bookname		Price
+1		Harry Potter		Rs. 10
+Fine: Rs.20
+Total: Rs.30.0
